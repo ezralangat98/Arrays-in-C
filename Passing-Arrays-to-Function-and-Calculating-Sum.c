@@ -9,7 +9,7 @@ int main() {
 
   // marks array is passed to calculateSum()
   result = calculateSum(marks); 
-  printf("Result = %.2f", result);
+  printf("Result = %.3f", result);
   return 0;
 }
 
